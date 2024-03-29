@@ -3,7 +3,7 @@
 How to install?
 
 - Download the project!
-- Run project v1.3.9.js
+- Run Fishing_bot v1.1
 - Wait for the program installation to complete.
 - Ready!
 
