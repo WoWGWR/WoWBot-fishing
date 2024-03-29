@@ -15,4 +15,5 @@ What should I do if the software doesn't work?
 - If you have VPN/proxy enabled, disable it.
 
 
-![image](https://github.com/WoWGWR/WoWBot-fishing/assets/165406921/a7f48eae-f27c-444c-b8eb-edda0c012e83)
+![image](https://github.com/WoWGWR/WoWBot-fishing/assets/165406921/a16bf7a0-c3e0-4019-ab10-68b352b72872)
+
